@@ -11,11 +11,12 @@ Bonus : Inclure et appliquer Bootstrap au formulaire.
 # Exercice 3
 Recréer le formulaire mais de manière éclatée. Les labels doivent être en français.
 
-Bonus 1 : Inclure et appliquer Bootstrap.
-Bonus 2 : Permettre l'affichage des erreurs en français.
+Bonus : Inclure et appliquer Bootstrap.
 
 # Exercice 4
-Validez vos données avec des regex.
+Validez vos données afin de vérifier qu'elles ne sont pas vides et qu'elles correspondent aux regex que vous mettrez en place.
+
+Bonus : Permettre l'affichage des erreurs en français.
 
 # Exercice 5
 Insérez vos données dans la base.
